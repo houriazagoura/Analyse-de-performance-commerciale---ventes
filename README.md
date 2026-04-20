@@ -12,6 +12,33 @@ The analytical work then followed a progressive structure. It began with a globa
 
 Finally, the results were consolidated into business insights and recommendations designed to answer the initial stakeholder concerns and support future commercial decisions.
 
+### Key takeaways from the stakeholder meeting
+we list the stakeholder meeting notes : 
+**Sales team**
+-Revenue changes from one period to another, but the reasons are not always clear.
+-There is a need to understand whether performance is driven by more orders, higher basket size, or a few strong categories.
+-Current reporting shows the top-line numbers, but not enough explanation behind them.
+**Category / product team**
+-Some categories seem to perform much better than others, but this has not been clearly measured yet.
+-There is a feeling that a small number of products may account for a large share of sales.
+-The team would like more visibility on which products really drive business value, not just volume.
+**Marketing / CRM**
+-Customer acquisition is happening, but customer value over time is not well understood.
+-It is unclear whether revenue comes from a broad customer base or from a limited group of high-value customers.
+-The team would like a better view of repeat customers versus one-time buyers.
+**Operations / logistics**
+-Delivery issues come up regularly and may be affecting customer experience.
+-There is interest in checking whether late deliveries or long delivery times are linked to lower review scores.
+-The team does not yet have a consolidated view between order journey and customer feedback.
+**Leadership**
+-A lot of data is available, but it is still difficult to turn it into clear business priorities.
+-There is a need for a more consolidated and decision-oriented view of performance.
+-Leadership is expecting insights that can lead to concrete business actions, not just descriptive reporting.
+**Finance / performance monitoring**
+-KPI consistency is important, especially because the analysis will rely on several datasets.
+-There is concern that joining multiple tables too quickly may create duplicated records or misleading indicators.
+-Before building dashboards, the data structure and the level of analysis need to be clarified.
+
 ### Translation of Stakeholder Needs into Analytical Questions
 
 Following stakeholder discussions, the analysis was structured by translating broad business expectations into measurable questions.
